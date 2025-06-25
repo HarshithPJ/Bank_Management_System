@@ -26,4 +26,6 @@ A simple desktop banking application built in **Java Swing**, supporting:
 ---
 
 ## 📁 Project Structure
-
+├── Bank.java # Interface
+├── Bank_Implement.java # Backend logic and storage
+├── Bank_Main.java # GUI (Java Swing)
